@@ -1,7 +1,4 @@
 # P2 INDIVIDUAL ACTIVITY
-
-Click the live https://patrick-calculator.netlify.app/ to open in your browser
-
 ## Using State in React.js, create the following:
 1. Create 2 text field 
 2. Text fields should only accept integer or float values 
